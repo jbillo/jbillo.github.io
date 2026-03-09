@@ -1,5 +1,5 @@
 ---
-title: Index
+title: jbillo.github.io
 ---
 
 # jbillo.github.io
